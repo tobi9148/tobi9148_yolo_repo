@@ -1,0 +1,5 @@
+# path: .
+train: C:/Users/tobia/Desktop/Skole/Digitek/Digitek24_25/machine_learning/Yolo/datasets/images/train
+val: C:/Users/tobia/Desktop/Skole/Digitek/Digitek24_25/machine_learning/Yolo/datasets/images/val
+nc: 6  # Antal klasser (1-6)
+names: ['1', '2', '3', '4', '5', '6']   

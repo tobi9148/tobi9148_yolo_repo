@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Yolo",
+			"path": "."
+		},
+		{
+			"name": "datasets",
+			"path": "../../../../Desktop/Digitek24_25/machine_learning/Yolo/datasets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Yolo"
+	}
+}
